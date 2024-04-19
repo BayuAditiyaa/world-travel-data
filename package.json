@@ -1,0 +1,16 @@
+{
+  "name": "world-travel-data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "https://github.com/BayuAditiyaa/world-travel-data.git",
+  "author": "BayuAditiyaa <shinatsuka7@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
